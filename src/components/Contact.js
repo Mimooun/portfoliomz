@@ -59,7 +59,7 @@ const Contact = () => {
               <div className="text">
                 <p>
                 Veuillez remplir le formulaire dans cette section pour me contacter. Ou appelez entre 9h00 et 18h00., du lundi au vendredi
-                  Friday
+                
                 </p>
               </div>
               <ul>
