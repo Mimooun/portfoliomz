@@ -32,7 +32,7 @@ const About = () => {
               <h3>
                 Web <span>Developer</span>
               </h3>
-              <span className="subtitle">Based in Paris</span>
+              <span className="subtitle">Basé à Paris</span>
             </div>
             <div
               className="text wow fadeInUp"

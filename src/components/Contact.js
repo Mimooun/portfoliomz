@@ -51,8 +51,8 @@ const Contact = () => {
             data-text-align="center"
             data-color="dark"
           >
-            <span>Get in Touch</span>
-            <h3>Connect with Me with Confidence</h3>
+            <span>Entrer en contact</span>
+            <h3>Connectez-vous avec moi en toute confiance</h3>
           </div>
           <div className="contact_inner">
             <div className="left wow fadeInLeft" data-wow-duration="1s">
