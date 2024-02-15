@@ -2295,8 +2295,9 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 150px 0px 170px 0px;
+	padding: 15px 0px 17px 0px;
 	position: relative;
+	margin-top: -10em;
 }
 .aali_tm_contact .contact_inner{
 	width: 100%;
@@ -2454,7 +2455,7 @@ input[type=number] {
 	position: absolute;
 	width: 115px;
 	height: 90px;
-	background-color: #3c3c3c;
+	/* background-color: #3c3c3c; */
 	top: 60px;
 	left: 80px;
 }
@@ -2471,6 +2472,9 @@ input[type=number] {
 	background-color: #3c3c3c;
 	padding: 120px 0px 65px 0px;
 	position: relative;
+}
+.aali_tm_copyright .footercontent {
+	margin-left: 25em;
 }
 .aali_tm_copyright .copyright_inner{
 	width: 100%;
@@ -2582,6 +2586,7 @@ input[type=number] {
 .aali_tm_copyright .bottom .right ul li a:hover{
 	color: #fff;
 }
+
 .aali_tm_copyright .border{
 	position: absolute;
 	width: 268px;
@@ -3050,6 +3055,7 @@ body.intro .loader_line:after{
 	.aali_tm_copyright .bottom{flex-direction: column;align-items: baseline;}
 	.aali_tm_copyright .bottom .left{margin-bottom: 20px;}
 	.aali_tm_modalbox .box_inner{width: 500px;}
+	.aali_tm_copyright .footercontent {margin-left: 1em;font-size: 14px;}
 }
 @media (max-width: 768px) {
 	.aali_tm_hero .content .name{font-size: 60px;}

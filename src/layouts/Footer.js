@@ -32,10 +32,10 @@ const Footer = () => {
             <div className="bottom">
               <div className="left">
                 <p>
-                  <div>© 2022 Tous droits réservés par Mimoun Zouhri</div>
+                  <div className="footercontent">© 2024 Tous droits réservés par Mimoun Zouhri</div>
                 </p>
               </div>
-              <div className="right">
+             {/*  <div className="right">
                 <ul>
                   <li>
                     <a className="line_anim" href="#">
@@ -53,7 +53,7 @@ const Footer = () => {
                     </a>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </div>
             <span
               className="border moving_effect"

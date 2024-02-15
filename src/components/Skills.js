@@ -63,10 +63,10 @@ const Skills = () => {
                     </div>
                   </div>
                 </div>
-                <div className="progress_inner skillsInner___" data-value={70}>
+                <div className="progress_inner skillsInner___" data-value={80}>
                   <span>
-                    <span className="label">Ionic</span>
-                    <span className="number">70%</span>
+                    <span className="label">Ruby on Rails</span>
+                    <span className="number">80%</span>
                   </span>
                   <div className="background">
                     <div className="bar">
