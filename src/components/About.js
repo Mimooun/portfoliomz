@@ -44,7 +44,7 @@ const About = () => {
               très passionné et dévoué à mon travail.
               </p>
               <p>
-              Avec 1 ans d'expérience en tant que graphiste et développeur web professionnel, j'ai acquis les compétences et les connaissances nécessaires pour faire de votre projet une réussite..
+              Avec 1 ans d'expérience en tant que graphiste et développeur web professionnel, j'ai acquis les compétences et les connaissances nécessaires pour faire de votre projet une réussite.
               </p>
             </div>
             <div
