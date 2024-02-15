@@ -42,7 +42,7 @@ const Skills = () => {
 
                 <div className="progress_inner skillsInner___" data-value={80}>
                   <span>
-                    <span className="label">React.js</span>
+                    <span className="label">React.js / Angular</span>
                     <span className="number">80%</span>
                   </span>
                   <div className="background">
