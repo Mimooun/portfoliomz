@@ -3058,6 +3058,7 @@ body.intro .loader_line:after{
 	.aali_tm_copyright .footercontent {margin-left: 1em;font-size: 14px;}
 }
 @media (max-width: 768px) {
+	.aali_tm_contact .left ul li a{font-size: 20px;font-weight: 700;letter-spacing: -.2px;}
 	.aali_tm_hero .content .name{font-size: 60px;}
 	.aali_tm_hero .cd-headline{font-size: 20px;}
 	.aali_tm_hero .cd-headline b{font-size: 30px;}
