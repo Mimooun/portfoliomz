@@ -376,7 +376,14 @@ const Portfolio = () => {
                     <img className="thumbs" src="img/thumbs/1-1.jpg" alt="aali image" />
                     <img className="main" src="img/portfolio/7.jpeg" alt="aali image" />
                   </div>
-
+                </div>
+              </li>
+              <li className="filter-item image">
+                <div className="list_inner">
+                  <div className="image">
+                    <img className="thumbs" src="img/thumbs/1-1.jpg" alt="aali image" />
+                    <img className="main" src="img/portfolio/8.png" alt="aali image" />
+                  </div>
                 </div>
               </li>
             </ul>
