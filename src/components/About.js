@@ -52,7 +52,7 @@ const About = () => {
               data-wow-duration="1.5s"
               data-wow-delay="0.2s"
             >
-              <a href="img/cv/mimoun gl.pdf" download>
+              <a href="img/cv/Zouhri MIMOUN.pdf" download>
                 <span>Download CV {download}</span>
               </a>
             </div>
